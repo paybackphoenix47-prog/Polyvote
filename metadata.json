@@ -1,0 +1,6 @@
+{
+  "name": "POLYVOTE - SUG Online Voting System",
+  "description": "Online Voting System for Student Union Government (SUG) Election: A Case Study of Dr. Ogbonnaya Onu Polytechnic, Aba. Academic prototype with voter accreditation, electronic balloting, real-time results, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
